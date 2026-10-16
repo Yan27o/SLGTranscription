@@ -1,0 +1,12 @@
+{
+  "baseline": {
+    "test_samples": 7172,
+    "raw_label_accuracy": 0.9095092024539877,
+    "displayed_letter_accuracy": 0.43000557724484106
+  },
+  "retrained_displayed_letter_accuracy": 0.9987451199107641,
+  "errors": 9,
+  "test_samples": 7172,
+  "metrics_path": "training_runs\\20261013_144029\\metrics.json",
+  "live_camera_accuracy_verified": false
+}

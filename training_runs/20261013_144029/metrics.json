@@ -1,0 +1,137 @@
+{
+  "loss": 0.006094296462833881,
+  "accuracy": 0.9987451434135437,
+  "precision": 0.9987995110432468,
+  "recall": 0.9986327400815721,
+  "f1": 0.998703600632172,
+  "test_samples": 7172,
+  "per_letter": {
+    "A": {
+      "samples": 331,
+      "accuracy": 1.0
+    },
+    "B": {
+      "samples": 432,
+      "accuracy": 1.0
+    },
+    "C": {
+      "samples": 310,
+      "accuracy": 1.0
+    },
+    "D": {
+      "samples": 245,
+      "accuracy": 1.0
+    },
+    "E": {
+      "samples": 498,
+      "accuracy": 1.0
+    },
+    "F": {
+      "samples": 247,
+      "accuracy": 1.0
+    },
+    "G": {
+      "samples": 348,
+      "accuracy": 0.9913793103448276
+    },
+    "H": {
+      "samples": 436,
+      "accuracy": 1.0
+    },
+    "I": {
+      "samples": 288,
+      "accuracy": 1.0
+    },
+    "K": {
+      "samples": 331,
+      "accuracy": 1.0
+    },
+    "L": {
+      "samples": 209,
+      "accuracy": 1.0
+    },
+    "M": {
+      "samples": 394,
+      "accuracy": 1.0
+    },
+    "N": {
+      "samples": 291,
+      "accuracy": 1.0
+    },
+    "O": {
+      "samples": 246,
+      "accuracy": 1.0
+    },
+    "P": {
+      "samples": 347,
+      "accuracy": 1.0
+    },
+    "Q": {
+      "samples": 164,
+      "accuracy": 1.0
+    },
+    "R": {
+      "samples": 144,
+      "accuracy": 1.0
+    },
+    "S": {
+      "samples": 246,
+      "accuracy": 1.0
+    },
+    "T": {
+      "samples": 248,
+      "accuracy": 0.9758064516129032
+    },
+    "U": {
+      "samples": 266,
+      "accuracy": 1.0
+    },
+    "V": {
+      "samples": 346,
+      "accuracy": 1.0
+    },
+    "W": {
+      "samples": 206,
+      "accuracy": 1.0
+    },
+    "X": {
+      "samples": 267,
+      "accuracy": 1.0
+    },
+    "Y": {
+      "samples": 332,
+      "accuracy": 1.0
+    }
+  },
+  "labels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y"
+  ],
+  "seed": 42,
+  "train_samples": 27455,
+  "validation_fraction": 0.2,
+  "epochs_completed": 35,
+  "best_epoch": 31
+}

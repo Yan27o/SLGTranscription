@@ -1,0 +1,5 @@
+{
+  "test_samples": 7172,
+  "raw_label_accuracy": 0.9095092024539877,
+  "displayed_letter_accuracy": 0.43000557724484106
+}
